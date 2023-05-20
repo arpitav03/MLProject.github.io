@@ -1,4 +1,4 @@
-Weather Forecasting (next day temperature):
+Weather Forecasting (next day's temperature) using historical weather data:
 
 OVERVIEW :
 
